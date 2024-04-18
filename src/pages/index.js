@@ -32,7 +32,7 @@ export default (() => {
 				<Image src="https://optim.tildacdn.net/tild3934-3039-4337-b666-346130306466/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" width="100%" />
 			</Override>
 			<Override slot="Slide" filter="opacity(50%)" />
-			<Override slot="Slide :active" filter="opacity(50%)" />
+			<Override slot="Slide :active" filter="none" />
 			<Override slot="Navigation Container Right" left="73%" />
 			<Override slot="Navigation Container Left" right="73%" flex-direction="row" />
 			<Override slot="Navigation Container" justify-content="flex-end" flex-direction="row-reverse" />
