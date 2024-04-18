@@ -15,7 +15,13 @@ export default (() => {
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
-		<Components.BoxCarousel showPagination="dotsout" slidesCount="4" slidesPerView="2" spaceBetween="100">
+		<Components.BoxCarousel
+			showPagination="dotsout"
+			slidesCount="4"
+			slidesPerView="2"
+			spaceBetween="100"
+			height="auto"
+		>
 			<Override slot="Bullet Button" background="#c7c7c7" hover-background="#222" />
 			<Override slot="Bullet Button :active" background="#222" />
 			<Override slot="Arrow" background="rgb(232, 232, 232)" focus-box-shadow="none" />
