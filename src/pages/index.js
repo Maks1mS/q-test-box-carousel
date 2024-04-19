@@ -43,6 +43,7 @@ export default (() => {
 				display="flex"
 				align-items="center"
 				justify-content="center"
+				height="500px"
 			/>
 			<Override slot="Slide :active" filter="none" />
 			<Override slot="Navigation Container Right" left="73%" />
