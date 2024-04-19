@@ -29,13 +29,13 @@ export default (() => {
 				<Image src="https://optim.tildacdn.net/tild3065-3566-4333-b939-306564393265/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" max-width="100%" height="auto" />
 			</Override>
 			<Override slot="Slide 2">
-				<Image src="https://optim.tildacdn.net/tild3965-3935-4765-b634-616236613262/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" width="100%" />
+				<Image src="https://optim.tildacdn.net/tild3965-3935-4765-b634-616236613262/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" max-width="100%" height="auto" />
 			</Override>
 			<Override slot="Slide 3">
-				<Image src="https://optim.tildacdn.net/tild3734-6339-4962-b265-326334386138/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" width="100%" />
+				<Image src="https://optim.tildacdn.net/tild3734-6339-4962-b265-326334386138/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" max-width="100%" height="auto" />
 			</Override>
 			<Override slot="Slide 4">
-				<Image src="https://optim.tildacdn.net/tild3934-3039-4337-b666-346130306466/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" width="100%" />
+				<Image src="https://optim.tildacdn.net/tild3934-3039-4337-b666-346130306466/-/cover/860x550/center/center/-/format/webp/Screenshot_2024-02-0.png" display="block" max-width="100%" height="auto" />
 			</Override>
 			<Override
 				slot="Slide"
